@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+:root{
+    --theme-primary50: #3859FF;
+    --theme-primary100: #3859FF;
+    --theme-primary200: #3859FF;
+    --theme-primary300: #3859FF;
+    --theme-primary400: #3859FF;
+    --theme-primary500: #3859FF;
+    --theme-primary600: #3859FF;
+    --theme-primary700: #3859FF;
+    --theme-primary800: #3859FF;
+    --theme-primary900: #3859FF;
+    --theme-secondary50: #3859FF;
+    --theme-secondary100: #3859FF;
+    --theme-secondary200: #3859FF;
+    --theme-secondary300: #3859FF;
+    --theme-secondary400: #3859FF;
+    --theme-secondary500: #3859FF;
+    --theme-secondary600: #3859FF;
+    --theme-secondary700: #3859FF;
+    --theme-secondary800: #3859FF;
+    --theme-secondary900: #3859FF;
+  }
